@@ -1,0 +1,16 @@
+body{
+    padding-top: 10px;
+}
+[class*="col-"], footer {
+    background-color:whitesmoke;
+    border: 0.5px solid black;
+   
+    line-height: 40px;
+    text-align: center;
+}
+.container{
+    padding-left: 15px ;
+    padding-right: 15px ;
+    margin-left: auto;
+    margin-left: auto;
+}
